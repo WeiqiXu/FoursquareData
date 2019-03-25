@@ -1,8 +1,8 @@
-Code:
-dataPreprocessing.py is for data preprocessing
-prediction.py is for POI prediction 
+#Code:
+###dataPreprocessing.py is for data preprocessing
+###prediction.py is for POI prediction 
 
-Dataset:
+#Dataset:
 The dataset is stored at:
 https://drive.google.com/drive/folders/1dGpspvtLdqfWD0_UBoD4LxidZTEYEJ9k?usp=sharing
 
