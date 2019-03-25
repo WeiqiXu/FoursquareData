@@ -1,0 +1,3 @@
+The dataset includes two files, "check_CA_venues.txt" contains check-in records as 
+{userID, Time(GMT), VenueId, VenueName, VenueLocation, VenueCategory}, 
+where "Time(GMT)" is check-in time in GMT format, and "VenueId" is the check-in venue, which corresponds to Foursquare venue ID. "fs_friendship_CA.txt" contains indirect social connections among these users. All the users involved in this dataset are from CA state (according to the hometown information from their profiles on Foursquare). Please feel free to discuss with me if you have any questions about the dataset. :-)
